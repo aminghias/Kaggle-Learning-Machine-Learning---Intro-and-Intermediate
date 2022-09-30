@@ -14,3 +14,17 @@ https://www.kaggle.com/code/aminghias/exercise-explore-your-data
 
 https://www.kaggle.com/code/aminghias/exercise-machine-learning-competitions
 
+https://www.kaggle.com/code/aminghias/exercise-intro-to-automl
+
+https://www.kaggle.com/code/aminghias/exercise-missing-values
+
+https://www.kaggle.com/code/aminghias/exercise-pipelines
+
+https://www.kaggle.com/code/aminghias/exercise-cross-validation
+
+https://www.kaggle.com/code/aminghias/exercise-xgboost
+
+https://www.kaggle.com/code/aminghias/exercise-data-leakage
+
+
+
